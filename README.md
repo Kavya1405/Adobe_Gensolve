@@ -78,6 +78,13 @@ detect_symmetric_curves('/content/drive/MyDrive/art.png')
 # Run curve completion
 complete_curves('/content/drive/MyDrive/art.png')
 ```
+##input
+
+<img width="505" alt="image" src="https://github.com/user-attachments/assets/f75c32ab-db12-4d80-aede-f185336424db">
+
+##input
+
+
 
 ### Results
 
