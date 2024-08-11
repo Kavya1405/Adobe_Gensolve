@@ -82,12 +82,10 @@ complete_curves('/content/drive/MyDrive/art.png')
 
 <img width="505" alt="image" src="https://github.com/user-attachments/assets/f75c32ab-db12-4d80-aede-f185336424db">
 
-##input
-
-
 
 ### Results
-
+- **Regularize Curves :**Identify regular shapes on a given set of curves.
+  
 - **Symmetric Curve Detection:** Outputs the number of symmetric curves and highlights them on the image.
 - **Curve Completion:** Displays the original image, mask, and the inpainted image with completed curves.
 
