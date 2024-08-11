@@ -89,6 +89,9 @@ complete_curves('/content/drive/MyDrive/art.png')
  <img width="545" alt="image" src="https://github.com/user-attachments/assets/3265ebdf-fbaa-4fc0-b996-145113de1617">
 
 - **Symmetric Curve Detection:** Outputs the number of symmetric curves and highlights them on the image.
+
+<img width="374" alt="image" src="https://github.com/user-attachments/assets/59519faa-cbea-4d8c-b37d-6b45c00685b4">
+
 - **Curve Completion:** Displays the original image, mask, and the inpainted image with completed curves.
 
 ## Contributing
