@@ -96,7 +96,7 @@ complete_curves('/content/drive/MyDrive/art.png')
 
 <img width="361" alt="image" src="https://github.com/user-attachments/assets/fd5e15b2-98b4-48ef-9ea9-bf1b275d7485">
 
-
+<img width="176" alt="image" src="https://github.com/user-attachments/assets/26016f1f-7d79-42a3-aa7a-1cc4de357be5">
 
 
 ## Contributing
