@@ -88,9 +88,6 @@ complete_curves('/content/drive/MyDrive/art.png')
 
 Contributions are welcome! Please fork the repository, make changes, and submit a pull request. If you find any issues or have suggestions, feel free to open an issue.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
