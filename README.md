@@ -30,23 +30,6 @@ The project includes the following functionalities:
 - NumPy
 - Google Colab or a local Python environment
 
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   ```
-   
-2. **Navigate to the project directory:**
-   ```bash
-   cd your-repository
-   ```
-
-3. **Install the required Python packages:**
-   ```bash
-   pip install opencv-python-headless numpy
-   ```
-
 ### Usage
 
 1. **Detect Symmetric Curves:**
