@@ -94,6 +94,11 @@ complete_curves('/content/drive/MyDrive/art.png')
 
 - **Curve Completion:** Displays the original image, mask, and the inpainted image with completed curves.
 
+<img width="361" alt="image" src="https://github.com/user-attachments/assets/fd5e15b2-98b4-48ef-9ea9-bf1b275d7485">
+
+
+
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository, make changes, and submit a pull request. If you find any issues or have suggestions, feel free to open an issue.
